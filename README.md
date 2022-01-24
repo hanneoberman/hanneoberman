@@ -1,10 +1,11 @@
-### Hi, I'm Hanne!
+## Hi, I'm Hanne! 
 
-A statistician interested in data visualization, interdisciplinarity, and open science. <br/><br/>
-
+A statistician interested in data visualization, interdisciplinarity, and open science. 
+<br/><br/>
+H. I. Oberman, MSc | she/her | PhD Candidate | Utrecht University
+<br/><br/>
 *⇇ look overthere for some links to get in touch!* <br/><br/>
 
-H. I. Oberman, MSc | she/her | PhD Candidate | Utrecht University
 
 <!--
 **hanneoberman/hanneoberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
