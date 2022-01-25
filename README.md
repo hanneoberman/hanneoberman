@@ -1,6 +1,7 @@
 ## Hi, I'm Hanne! 
-
 A statistician interested in data visualization, interdisciplinarity, and open science. 
+<br/><br/>
+![Twitterbanner2](https://user-images.githubusercontent.com/38891540/150965992-bb00a8a2-a331-4ca4-88d0-8eb742ed2102.jpg)
 <br/><br/>
 H. I. Oberman, MSc | she/her | PhD Candidate | Utrecht University
 <br/><br/>
