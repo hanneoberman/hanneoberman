@@ -12,3 +12,6 @@ Statistician, interdisciplinarian, open scientist.
 <a href=https://www.linkedin.com/in/hanneoberman/ class="fa-brands fa-linkedin"></a>
 <a href=https://mastodon.social/@oberman class="fa-brands fa-mastodon"></a>
 <a href=https://twitter.com/hioberman class="fa-brands fa-twitter"></a>
+
+[![ggmice hex](https://github.com/amices/ggmice/blob/569eb0edf24dbee0524caaf8adfd7145eb28478b/man/figures/logo.png)](https://github.com/amices/ggmice)
+
