@@ -1,24 +1,14 @@
 ## Hi, I'm Hanne! 
-A statistician interested in data visualization, interdisciplinarity, and open science. 
+Statistician, interdisciplinarian, open scientist. 
 <br/><br/>
-![Twitterbanner2](https://user-images.githubusercontent.com/38891540/150965992-bb00a8a2-a331-4ca4-88d0-8eb742ed2102.jpg)
-<br/><br/>
-H. I. Oberman, MSc | she/her | PhD Candidate | Utrecht University
-<br/><br/>
-*⇇ look overthere for some links to get in touch!* <br/><br/>
 
+<link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<link rel=stylesheet href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<!--
-**hanneoberman/hanneoberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=mailto:h.i.oberman@uu.nl class="fa fa-envelope"></a>
+<a href=http://hanneoberman.github.io/ class="fa fa-home"></a>
+<a href=https://orcid.org/0000-0003-3276-2141 class="ai ai-orcid"></a>
+<a href=http://github.com/hanneoberman/ class="fa-brands fa-github"></a>
+<a href=https://www.linkedin.com/in/hanneoberman/ class="fa-brands fa-linkedin"></a>
+<a href=https://mastodon.social/@oberman class="fa-brands fa-mastodon"></a>
+<a href=https://twitter.com/hioberman class="fa-brands fa-twitter"></a>
