@@ -6,7 +6,6 @@ Statistician, interdisciplinarian, open scientist.
 <br/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanneoberman&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 <link rel=stylesheet href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
